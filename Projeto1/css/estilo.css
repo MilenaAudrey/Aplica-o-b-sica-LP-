@@ -1,0 +1,18 @@
+/*configuração do topo */
+
+div.bg{
+	background-color: #27178A;
+	height: 50px;
+	border: 1px solid #FFFFFF;
+}
+
+h1{
+	color: #0E8641;
+}
+
+footer{
+	text-align: center;
+	background-color: #25ADD4;
+	height: 50px;
+}
+
